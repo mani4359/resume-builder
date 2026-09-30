@@ -4,7 +4,7 @@
 Create, customise and download professional-looking CVs in just a few minutes.
 
 ## 🚀 Live Demo  
-[Visit the app](https://ai-resume-builder-iota-one.vercel.app)
+[Visit the app](https://resume-builder-two-gamma-17.vercel.app/)
 
 ## 🧰 Tech Stack  
 - **Frontend:** React, Vite, TailwindCSS  
@@ -21,8 +21,8 @@ Create, customise and download professional-looking CVs in just a few minutes.
 
 ### 1. Clone the repo  
 ```bash
-git clone https://github.com/AdarshSugandhe/Resume-Builder.git
-cd Resume-Builder
+git clone https://github.com/mani4359/resume-builder.git
+cd resume-builder
 ```
 ### 2. Install dependencies
 ```bash
